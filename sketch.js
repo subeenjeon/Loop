@@ -11,7 +11,7 @@ function setup() {
   ellipse(x, 100, 50, 50);
   
   x = 200;
-  ellipse(x, 200, 50, 50);
+  ellipse(x, 100, 50, 50);
  
   x = 300;
   ellipse(x, 100, 50, 50);
