@@ -3,7 +3,7 @@ function setup() {
   background(246, 153, 136);
   noFill();
 
-  stroke(136, 175, 207);
+  stroke(255, 255, 255);
 
   var x;
 /*
