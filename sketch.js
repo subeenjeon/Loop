@@ -16,8 +16,10 @@ function setup() {
   x = 3;
   ellipse(x * 150, 100, 50, 50);
 */
+
+//for (시작상태; 반복하는 조건; 증가값)
   for (var x = 1; x <=5; x++)
   {
-    ellipse(x * 100, 100, 50, 50);
+    ellipse(x * 100, x  * 30 + 100, 50, 50);
   }
 }
